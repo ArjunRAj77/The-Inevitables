@@ -1,0 +1,183 @@
+[
+    {
+      "sl_no": 1,
+      "hackathon_name": "UST Global d3code Campus Hackathon'19",
+      "year": 2019,
+      "theme": "Open Innovation",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "TOP 15 and Job Offer",
+      "project_name": ""
+    },
+    {
+      "sl_no": 2,
+      "hackathon_name": "Reboot Kerala Hackathon",
+      "year": 2020,
+      "theme": "Education",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "4th Position",
+      "project_name": ""
+    },
+    {
+      "sl_no": 3,
+      "hackathon_name": "Collaboration Hackathon by Weavy",
+      "year": 2020,
+      "theme": "Healthcare",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "4th Position and Honor Badge: 14k prize",
+      "project_name": "LifeLine"
+    },
+    {
+      "sl_no": 4,
+      "hackathon_name": "Azure Developer League Hackathon by Microsoft",
+      "year": 2021,
+      "theme": "Healthcare",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "1st Prize: 2 lkh",
+      "project_name": "Upgraded LifeLine"
+    },
+    {
+      "sl_no": 5,
+      "hackathon_name": "Build Tomorrow by Weavy",
+      "year": 2021,
+      "theme": "Education",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "2nd prize: Xbox series S",
+      "project_name": "Horizon: classroom"
+    },
+    {
+      "sl_no": 6,
+      "hackathon_name": "The World After Covid-19 by KPMG Malta",
+      "year": 2021,
+      "theme": "Open Innovation",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "Top 50",
+      "project_name": "Project Horizon"
+    },
+    {
+      "sl_no": 7,
+      "hackathon_name": "BIAL Genie Hackathon by Microsoft",
+      "year": 2021,
+      "theme": "Open Innovation",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "NOT PARTICIPATED",
+      "result": "Top 100",
+      "project_name": "Cloud Miles"
+    },
+    {
+      "sl_no": 8,
+      "hackathon_name": "Hack of PI by PAN IIT",
+      "year": 2021,
+      "theme": "Security",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "NOT PARTICIPATED",
+      "result": "TOP 100",
+      "project_name": "Project Overwatch"
+    },
+    {
+      "sl_no": 9,
+      "hackathon_name": "Cloud Fest Hackathon 1 By Google Cloud",
+      "year": 2022,
+      "theme": "Supply Chain",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "2nd prize: 1500USD",
+      "project_name": "Hello-harvest project"
+    },
+    {
+      "sl_no": 10,
+      "hackathon_name": "5ire - Hackathon by 5ire",
+      "year": 2022,
+      "theme": "Blockchain",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "NOT PARTICIPATED",
+      "result": "WITHDRAWN",
+      "project_name": ""
+    },
+    {
+      "sl_no": 11,
+      "hackathon_name": "International Fraud Group Hackathon",
+      "year": 2022,
+      "theme": "Risk Analysis",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "TOP 6",
+      "project_name": "Analysis Hub"
+    },
+    {
+      "sl_no": 12,
+      "hackathon_name": "Rakathon'22 by Rakuten",
+      "year": 2022,
+      "theme": "Cloud Computing",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "Top 10 and special prizes: 25k",
+      "project_name": "Upgraded Hello-harvest project"
+    },
+    {
+      "sl_no": 13,
+      "hackathon_name": "Striking Balance 2022 by Weavy",
+      "year": 2022,
+      "theme": "Rapid Prototyping",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "BLOCKED OR DELAYED",
+      "result": "3rd Prize: 100$ udemy",
+      "project_name": "Framebox"
+    },
+    {
+      "sl_no": 14,
+      "hackathon_name": "Intel ONEAPI hackathon 2023",
+      "year": 2023,
+      "theme": "Machine Learning",
+      "idea_phase": "SHORTLISTED",
+      "prototype_phase": "COMPLETED",
+      "result": "4th Prize: 10k",
+      "project_name": "Fresh Water Quality Detector"
+    },
+    {
+      "sl_no": 15,
+      "hackathon_name": "Atlas Madness Hack MongoDB Atlas on Google Cloud 2023",
+      "year": 2023,
+      "theme": "Google Cloud ans MongoDB",
+      "idea_phase": "IN PROGESS",
+      "prototype_phase": "IN PROGESS",
+      "result": "IN PROGESS",
+      "project_name": "Dragon Tales: Short Story Generator"
+    },
+    {
+      "sl_no": 16,
+      "hackathon_name": "Junction 2023",
+      "year": 2023,
+      "theme": "",
+      "idea_phase": "NOT STARTED",
+      "prototype_phase": "NOT STARTED",
+      "result": "NOT STARTED",
+      "project_name": ""
+    },
+    {
+      "sl_no": 17,
+      "hackathon_name": "CharmHealth CodeRx Hackathon 2023",
+      "year": 2023,
+      "theme": "",
+      "idea_phase": "NOT STARTED",
+      "prototype_phase": "NOT STARTED",
+      "result": "NOT STARTED",
+      "project_name": ""
+    },
+    {
+      "sl_no": 18,
+      "hackathon_name": "Rakathon 2023",
+      "year": 2023,
+      "theme": "",
+      "idea_phase": "NOT STARTED",
+      "prototype_phase": "NOT STARTED",
+      "result": "NOT STARTED",
+      "project_name": ""
+    }
+  ]
+  
