@@ -10,8 +10,12 @@ def get_random_color():
 
 # Team Introduction Page
 def show_team_intro():
-    st.header("👋 Welcome to Our Hackathon Team Showcase!")
-    st.write("Here, we proudly present our journey and achievements.")
+    st.subheader("Hi there 👋 We're 'The Inevitables'")
+    st.image("https://a-static.besthdwallpaper.com/penguins-of-madagascar-plucky-penguins-wallpaper-4320x1440-14052_107.jpg")
+    st.markdown("**Kowalski, status report:**")
+    st.markdown("## What are we? 🧙")
+    st.write("A group of techies who loves to solve complex problems by participating in various hackthons and trying to bring ideas to life.\nWe constantly look for new challenges and topics rather than fixating on the tech stack we know. And of course, the ultimate aim is to give something back to society.")
+    st.write("- ⚡ Fun fact: we ❤️ hackathons")
 
 # Team Members Page
 def show_team_members():
@@ -19,10 +23,10 @@ def show_team_members():
     st.write("Learn more about the individuals who make up our awesome team.")
     # Replace with actual team member data
     team_members = [
-        {"name": "John Doe", "role": "Team Leader", "bio": "Experienced coder and leader."},
-        {"name": "Jane Smith", "role": "Frontend Developer", "bio": "UI/UX enthusiast and CSS magician."},
-        {"name": "Alex Johnson", "role": "Backend Developer", "bio": "Database guru and API ninja."},
-        {"name": "Emily Brown", "role": "Data Scientist", "bio": "Data-driven problem solver."},
+        {"name": "Arjun Raj", "role": "Team Leader", "bio": "Experienced coder and leader."},
+        {"name": "Akhil M Anil", "role": "DevOps Engineer", "bio": "UI/UX enthusiast and CSS magician."},
+        {"name": "Akshaymon K V", "role": "Full Stack Developer", "bio": "Database guru and API ninja."},
+        {"name": "Akshay V Anil", "role": "Full Stack Developer", "bio": "Data-driven problem solver."},
     ]
     for member in team_members:
         st.subheader(member["name"])
